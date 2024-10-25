@@ -40,7 +40,7 @@ It's about trying to open the wallet before someone else does.
 If a wallet gets emptied, I will post here and on X the solution,
 that way you will be able to decide for yourself if the clues were enough to guess it.
 
-## Can they be brute forced? What do the password look like.
+## Can they be brute forced? What do the passwords look like?
 
 I can tell you that no password will be less than 12 characters.
 
