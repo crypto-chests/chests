@@ -2,15 +2,15 @@
 
 ## Treasure
 
+Buried at: Fri 25 Oct, 2024
+
 Electrum Wallet: https://github.com/crypto-chests/chests/blob/main/chest_1
 
-Buried at: Fri 25 Oct, 2024
+Bitcoin address: [bc1qh8nzusmqy545jnpnzjfrpyyr2gdwfkaann76vk](https://www.blockonomics.co/#/search?q=bc1qh8nzusmqy545jnpnzjfrpyyr2gdwfkaann76vk)
 
 Current balance: 0.5 mBTC
 
 Current value: $34 (at the time or writing)
-
-Bitcoin address: [bc1qh8nzusmqy545jnpnzjfrpyyr2gdwfkaann76vk](https://www.blockonomics.co/#/search?q=bc1qh8nzusmqy545jnpnzjfrpyyr2gdwfkaann76vk)
 
 ## Clues
 
