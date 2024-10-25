@@ -26,7 +26,7 @@ I don't have an automated system yet to detect this.
 
 Can you please ping [@CryptoChests](https://x.com/CryptoChests)?
 
-If someones opens one of the chest I will post the solution, and update this page to mark it as resolved.
+If someone opens one of the chest I will post the solution, and update this page to mark it as resolved.
 
 ## Can I get a clue please?
 
@@ -38,7 +38,15 @@ No, but this wouldn't really change anything to the game.
 It's about trying to open the wallet before someone else does.
 
 If a wallet gets emptied, I will post here and on X the solution,
-that way you will be able to decide for yourself if the clues where enough or not.
+that way you will be able to decide for yourself if the clues were enough to guess it.
+
+## Can they be brute forced? What do the password look like.
+
+I can tell you that no password will be less than 12 characters.
+
+They may contain uppercase or lowercase characters, commas, dashes, underscores, words in foreign languages, a period at the end etc.
+
+Depending on the case, some clues will explain those characteristics.
 
 ## That's fun. How can I tip?
 
