@@ -2,6 +2,8 @@
 
 ## Treasure
 
+Electrum Wallet: https://github.com/crypto-chests/chests/blob/main/chest_1
+
 Buried at: Fri 25 Oct, 2024
 
 Current balance: 0.5 mBTC
