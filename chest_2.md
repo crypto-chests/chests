@@ -8,7 +8,7 @@ Bitcoin address: [bc1qdhvrv2anwv4pynzr33nmjxa2vvxaannt3mkzc9](https://www.blocko
 
 Current balance: 0.001 BTC
 
-Current value: $66 (at the time of writing)
+Current value: $72 (at the time of writing)
 
 ## Chest map
 
