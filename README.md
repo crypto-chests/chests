@@ -5,7 +5,7 @@
 ### Unsolved treasures and chests
 
 - 4 days unsolved: [chest 1](https://github.com/crypto-chests/chests/blob/main/chest_1.md) (0.0005 BTC ~$36)
-- 3 day unsolved: [chest 2](https://github.com/crypto-chests/chests/blob/main/chest_2.md) (0.001 BTC ~$72)
+- 3 days unsolved: [chest 2](https://github.com/crypto-chests/chests/blob/main/chest_2.md) (0.001 BTC ~$72)
 
 ### Solved chests
 
