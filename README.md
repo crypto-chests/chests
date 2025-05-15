@@ -1,4 +1,4 @@
-# crypto-chests
+# crypto-chests.com (official token: [$CRYPTOCHESTS](https://solscan.io/token/cheETCRRczF8kUqKuynFYGHenSJUtSC5ydBkbxcTpvX))
 
 ## Chests
 
