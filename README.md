@@ -6,7 +6,7 @@
 
 - 7 months unsolved: [chest 1](https://github.com/crypto-chests/chests/blob/main/chest_1.md) (0.0005 BTC ~$50)
 - 7 months unsolved: [chest 2](https://github.com/crypto-chests/chests/blob/main/chest_2.md) (0.001 BTC ~$100)
-- (new) 1 day unsolved: [chest 3](https://github.com/crypto-chests/chests/blob/main/chest_3.md) (0.001 $CRYPTOCHESTS ~$50)
+- (new) 1 day unsolved: [chest 3](https://github.com/crypto-chests/chests/blob/main/chest_3.md) (270M $CRYPTOCHESTS ~$50)
 
 ### Solved chests
 
