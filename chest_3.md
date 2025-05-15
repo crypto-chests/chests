@@ -8,9 +8,9 @@ Solana Wallet in .7z format: https://github.com/crypto-chests/chests/blob/main/c
 
 Solana address: [winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N](https://solscan.io/account/winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N)
 
-Current balance: 275M $CRYPTOCHESTS
+Current balance: 115M $CRYPTOCHESTS
 
-Current value: $50 (at the time of writing)
+Current value: $46 (at the time of writing)
 
 ## How to get the coins
 
