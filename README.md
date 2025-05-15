@@ -32,6 +32,16 @@ Everyone gets the same clues, so it's also a speed game (you need to studies the
 Donations to the tip jar (see below) and my pocket money.
 I only create chests with amounts I can afford to give away, which is why I only create a couple of chests every 6 months or so.
 
+### What's the token about?
+
+The official Crypto-chests.com token is now being used to hold values of our chests:
+
+https://solscan.io/token/cheETCRRczF8kUqKuynFYGHenSJUtSC5ydBkbxcTpvX
+
+If the price of the token increase, so will the value of the chests, creating an exciting incentive for the people smart enough to find the solutions.
+
+In the future, the token might be used as a way to get access to exclusive chests or clues.
+
 ### Can you create more chests / give more clues?
 
 Basically this depends on the donations received on the tip jar.
