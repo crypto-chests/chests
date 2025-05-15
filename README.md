@@ -73,6 +73,11 @@ Option 2: tip me
 
 Help me personally by sending some BTC to my tip jar: [bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9](https://www.blockonomics.co/#/search?q=bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9)
 
+### I see the value of the chests has changed
+
+Yes, to make the game fair I may re-balance the money between chests.
+Anyone can also directly donate money to chests (it's super rare, but that can happen too)
+
 ### I found one of the passwords
 
 Congratulations - don't forget to collect your coins!
