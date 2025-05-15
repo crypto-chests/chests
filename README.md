@@ -10,6 +10,9 @@ A crypto treasure hunt, use the clues to find the passwords and grab the fiat mo
 - 7 months unsolved: [chest 2](https://github.com/crypto-chests/chests/blob/main/chest_2.md) (0.001 BTC ~$100)
 - (new) 1 day unsolved: [chest 3](https://github.com/crypto-chests/chests/blob/main/chest_3.md) (270M $CRYPTOCHESTS ~$50)
 
+total value $200 just sitting there on the blockchain 🤯
+What are you waiting for?
+
 ### Solved chests
 
 Nobody found the money yet..
@@ -78,7 +81,7 @@ No, but this wouldn't really change anything to the game.
 It's about trying to open the wallet before someone else does.
 
 If a wallet gets emptied, I will post here and on X the solution,
-that way you will be able to decide for yourself if the clues were enough to guess it.
+that way you will be able to decide for yourself if the clues were legit enough to be guessable (they are but it's hard - it's a multi months/years game).
 
 ### Can they be brute forced? What do the passwords look like?
 
