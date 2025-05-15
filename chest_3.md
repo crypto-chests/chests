@@ -6,7 +6,7 @@ Buried at: Thu 15 May, 2025
 
 Solana Wallet in .7z format: https://github.com/crypto-chests/chests/blob/main/chest_3.7z
 
-Solana address: [winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N#balanceChanges]([https://www.blockonomics.co/#/search?q=bc1qh8nzusmqy545jnpnzjfrpyyr2gdwfkaann76vk](https://solscan.io/account/winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N#balanceChanges))
+Solana address: [winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N](https://solscan.io/account/winAu1Pvr9SSGc4KPsZEiKw7Qux1zuBCLYSxUcWZd6N)
 
 Current balance: 275M $CRYPTOCHESTS
 
