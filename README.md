@@ -30,7 +30,7 @@ Everyone gets the same clues, so it's also a speed game (you need to studies the
 ### Where does the money come from?
 
 Donations to the tip jar (see below) and my pocket money.
-I only create chests with amounts I can afford to give away.
+I only create chests with amounts I can afford to give away, which is why I only create a couple of chests every 6 months or so.
 
 ### Can you create more chests / give more clues?
 
