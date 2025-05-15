@@ -59,7 +59,14 @@ So in short if you want more action, send a tip!
 
 ### That's fun. How can I tip?
 
-Here is the Bitcoin (BTC) address: [bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9](https://www.blockonomics.co/#/search?q=bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9)
+Option 1: help the project as a whole
+
+- Purchase some $CRYPTOCHESTS on Raydium: https://raydium.io/swap/?inputMint=cheETCRRczF8kUqKuynFYGHenSJUtSC5ydBkbxcTpvX&outputMint=sol
+- Hold it for yourself! or donate some to the account used to create chests: https://solscan.io/account/buyMW6XJUGcVVjDjnG3LWTekfFb3GgKWZaH9xAY16DK
+
+Option 2: tip me
+
+Help me personally by sending some BTC to my tip jar: [bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9](https://www.blockonomics.co/#/search?q=bc1quwxl6wd4wpcnys747xv6y8fwr3qvas5u8z2tj9)
 
 ### I found one of the passwords
 
