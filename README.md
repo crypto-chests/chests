@@ -32,6 +32,10 @@ Participation is completely free, and it's a skill and investigation game, so th
 
 Everyone gets the same clues, so it's also a speed game (you need to studies the clues and find the answer before the others).
 
+### How can I contact you or follow news?
+
+https://x.com/CryptoChests
+
 ### Where does the money come from?
 
 Donations to the tip jar (see below) and my pocket money.
