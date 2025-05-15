@@ -1,5 +1,7 @@
 # crypto-chests.com (official token: [$CRYPTOCHESTS](https://solscan.io/token/cheETCRRczF8kUqKuynFYGHenSJUtSC5ydBkbxcTpvX))
 
+A crypto treasure hunt, use the clues to find the passwords and grab the fiat money bag!
+
 ## Chests
 
 ### Unsolved treasures and chests
